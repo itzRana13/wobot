@@ -125,7 +125,23 @@ wobot/
 
 ## Deployment
 
-### GitHub Pages
+### Live Deployment
+
+The application is currently deployed on **Vercel** and is publicly accessible:
+
+**🌐 Live URL**: [https://wobot-rh70d58et-itzrana13s-projects.vercel.app](https://wobot-rh70d58et-itzrana13s-projects.vercel.app)
+
+The deployment is connected to the GitHub repository and automatically deploys on every push to the `main` branch.
+
+### Deploy to Vercel
+
+1. Install Vercel CLI: `npm i -g vercel`
+2. Run: `vercel --prod`
+3. Follow the prompts or use `vercel --prod --yes` for automatic configuration
+
+### Alternative Deployment Options
+
+#### GitHub Pages
 
 1. Install gh-pages:
 ```bash
