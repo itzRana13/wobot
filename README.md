@@ -2,6 +2,12 @@
 
 A modern, responsive React application for managing cameras with features including search, filtering, pagination, and status updates.
 
+## 🌐 Live Demo
+
+**Live Application**: [https://wobot-rh70d58et-itzrana13s-projects.vercel.app](https://wobot-rh70d58et-itzrana13s-projects.vercel.app)
+
+The application is deployed on Vercel and is publicly accessible.
+
 ## Features
 
 - 📹 **Camera List Display**: View all cameras in a clean, organized table format
